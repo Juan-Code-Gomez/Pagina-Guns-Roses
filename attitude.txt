@@ -1,0 +1,58 @@
+    <div class="container tim-container">
+        <div id="extras">
+            <div class="space"></div>
+            <div class="row">
+                <div class="col-md-7 col-md-offset-0 col-sm-10 col-sm-offset-1">
+                    <div class="text-center">
+                        <img src="./assets/img/attitude.jpg" alt="Rounded Image" class="img-rounded img-responsive img-dog">
+                        <h5 id="nombre">Nombre:</h5>
+                        <h5 id="album">Album:</h5>
+                        <h5 id="año">Año:</h5>
+                        <h5 id="compositor">Compositor:</h5>
+                        <h5 id="tiempo">Tiempo:</h5>
+                    </div>
+                </div>
+                <div class="col-md-5 col-sm-12">
+                                <h1 class="text-center">The Spaguetti
+                                
+                                <small class="subtitle">Attitude</small></h1>
+                                <hr>
+                                <p>
+                                    Yeah!
+                                    Attitude
+                                    Some fuckin' attitude
+                                    I can't believe what you say to me
+                                    You've got some attitude
+                                    Inside that bitter brain
+                                    There's gotta be a whore
+                                    If you don't shut your mouth
+                                    You're gonna feel the floor, yeah!
+                                </p>
+                                <p>
+                                    Attitude, what you've got
+                                    Some fuckin' attitude
+                                    Attitude's what you've got
+                                    Some fuckin' attitude
+                                    Yeah, all right
+                                    Inside that bitter brain
+                                    There's gotta be a whore
+                                    If you don't shut your mouth
+                                    You're gonna feel the mutha fuckin' guitar!
+                                </p>
+                                <p>
+                                    Oh, attitude
+                                    Some fuckin' attitude
+                                    I can't believe what you say to me
+                                    You've got some attitude
+                                    Oh, attitude
+                                    Some fuckin' attitude
+                                    I can't believe what you say to me
+                                    You've got some attitude
+                                    Yeah!
+                                    Yeah!
+                                    Yeah! yeh!                              
+                                </p>
+                                <button id="test">Test</button>
+                </div>
+            </div>
+        </div>
